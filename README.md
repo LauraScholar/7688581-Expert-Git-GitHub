@@ -8,8 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Il n'y a aucun prérequisn écrit autre chose et encore
-
+Il n'y a aucun prérequis, j'ajoute sur le nav
 ```
 A définir
 
