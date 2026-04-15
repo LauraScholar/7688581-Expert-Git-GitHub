@@ -8,7 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au Fpréalable installer :
+Il n'y a aucun prérequis
 
 ```
 A définir
@@ -23,8 +23,6 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 A définir
 ```
-
-
 
 ## Executer les tests
 
